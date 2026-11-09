@@ -115,7 +115,7 @@ Usunięcie tego pliku kasuje też identyfikator instalacji.
 Adres serwera:
 
 ```python
-SERVER_URL = "https://heictojpg-telemetry.net-solution.pl"
+SERVER_URL = ""
 ```
 
 Pusty `SERVER_URL` całkowicie wyłącza telemetrię.
