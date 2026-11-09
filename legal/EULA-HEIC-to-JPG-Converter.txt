@@ -1,0 +1,429 @@
+================================================================================
+UMOWA LICENCYJNA KOŃCOWEGO UŻYTKOWNIKA (EULA)
+Program: HEIC -> JPG Converter
+Wersja darmowa, wspierana dobrowolnymi darowiznami
+================================================================================
+
+WERSJA 1.0 (wersja darmowa)
+
+--------------------------------------------------------------------------------
+INFORMACJE O PROGRAMIE
+--------------------------------------------------------------------------------
+Autor (Licencjodawca): Szymon Jankojć
+Kod źródłowy:          https://github.com/net-solution-szymon/heic_to_jpg_converter
+Kontakt:               szymon.jankojc@net-solution.pl
+
+Program jest udostępniany bezpłatnie, bez klucza licencyjnego i bez ograniczeń
+czasowych. Jeśli się przydaje, można dobrowolnie wesprzeć jego rozwój. Wsparcie
+nie jest opłatą za licencję i nie jest do korzystania z Programu potrzebne.
+--------------------------------------------------------------------------------
+
+SPIS TREŚCI
+
+1. Definicje
+2. Oświadczenie o zapoznaniu się z umową
+3. Udzielenie licencji
+4. Dobrowolne wsparcie rozwoju programu
+5. Dozwolone i niedozwolone korzystanie
+6. Ograniczenia oraz wyjątek dotyczący komponentów open source
+7. Komponenty stron trzecich
+8. Aktualizacje, wsparcie i okres obowiązywania
+9. Kod źródłowy
+10. Wyłączenie gwarancji
+11. Ograniczenie odpowiedzialności
+12. Prawa konsumenta i reklamacje
+13. Anonimowe statystyki i ochrona danych osobowych
+14. Wypowiedzenie umowy
+15. Prawo właściwe i właściwość sądu
+16. Postanowienia końcowe
+17. Kontakt
+
+1. DEFINICJE
+
+1.1. "Licencjodawca" - Szymon Jankojć, e-mail: szymon.jankojc@net-solution.pl.
+
+1.2. "Program" - aplikacja komputerowa "HEIC -> JPG Converter" przeznaczona dla
+     systemu Microsoft Windows, w tym jej pliki wykonywalne, biblioteki, pliki
+     konfiguracyjne, dokumentacja oraz wszelkie aktualizacje udostępniane przez
+     Licencjodawcę.
+
+1.3. "Użytkownik" - osoba fizyczna, osoba prawna lub jednostka organizacyjna
+     nieposiadająca osobowości prawnej, która instaluje lub używa Programu.
+
+1.4. "Licencja" - uprawnienie do korzystania z Programu, udzielane nieodpłatnie
+     i bezterminowo, na zasadach opisanych w niniejszej umowie. Licencja nie
+     wymaga klucza ani aktywacji i nie wygasa z upływem czasu.
+
+1.5. "Wsparcie" - dobrowolna darowizna na rzecz rozwoju Programu, niezwiązana z
+     uzyskaniem Licencji ani z zakresem uprawnień Użytkownika.
+
+1.6. "Anonimowe statystyki" - dane techniczne opisane w sekcji 13 ust. 13.1,
+     niezawierające danych pozwalających zidentyfikować Użytkownika ani jego
+     urządzenie.
+
+1.7. "Dokumenty licencyjne" - dokument "Noty dotyczące oprogramowania stron
+     trzecich" (THIRD-PARTY-NOTICES.txt) oraz dokument "Audyt praw autorskich i
+     licencji", dołączone do Programu.
+
+2. OŚWIADCZENIE O ZAPOZNANIU SIĘ Z UMOWĄ
+
+2.1. Instalując, kopiując lub w jakikolwiek sposób używając Programu, Użytkownik
+     oświadcza, że zapoznał się z treścią niniejszej umowy, rozumie ją i
+     zobowiązuje się do jej przestrzegania. Treść umowy jest dostępna w każdym
+     czasie z poziomu Programu (menu Pomoc -> Licencja).
+
+2.2. Jeżeli Użytkownik nie akceptuje warunków niniejszej umowy, nie jest
+     uprawniony do instalowania ani używania Programu i powinien go usunąć ze
+     swojego urządzenia.
+
+2.3. Jeżeli Użytkownik działa w imieniu podmiotu innego niż osoba fizyczna,
+     oświadcza, że jest uprawniony do przyjęcia niniejszej umowy w jego imieniu.
+
+3. UDZIELENIE LICENCJI
+
+3.1. Licencjodawca udziela Użytkownikowi niewyłącznej, nieprzenoszalnej,
+     nieodpłatnej i bezterminowej licencji na korzystanie z Programu w celach
+     własnych, w tym w celach zarobkowych, na dowolnej liczbie urządzeń będących
+     w dyspozycji Użytkownika.
+
+3.2. Licencja nie jest uzależniona od uiszczenia jakiejkolwiek opłaty, nie
+     wymaga podania danych osobowych, rejestracji ani aktywacji.
+
+3.3. Licencja nie uprawnia do korzystania z Programu w sposób, który naruszałby
+     obowiązujące przepisy prawa, prawa osób trzecich lub niniejszą umowę.
+
+3.4. Wszelkie prawa, które nie zostały wyraźnie przyznane w niniejszej umowie,
+     pozostają zastrzeżone dla Licencjodawcy.
+
+4. DOBROWOLNE WSPARCIE ROZWOJU PROGRAMU
+
+4.1. Program jest udostępniany bezpłatnie. Użytkownik nie ma obowiązku
+     uiszczenia jakiejkolwiek opłaty za korzystanie z Programu.
+
+4.2. Użytkownik może dobrowolnie wesprzeć rozwój Programu za pośrednictwem
+     zewnętrznej platformy wskazanej w Programie. Wsparcie jest darowizną i nie
+     stanowi zapłaty za Licencję ani za jakiekolwiek świadczenie, którego
+     Licencjodawca byłby zobowiązany udzielić.
+
+4.3. Udzielenie Wsparcia nie przyznaje Użytkownikowi żadnych dodatkowych
+     uprawnień ani nie zmienia zakresu Licencji. Brak Wsparcia nie powoduje
+     żadnych ograniczeń w działaniu Programu.
+
+4.4. Wsparcie dokonywane jest na warunkach platformy, za pośrednictwem której
+     jest realizowane, w szczególności zgodnie z jej regulaminem i zasadami
+     zwrotów. Licencjodawca nie jest operatorem tej platformy i nie przetwarza
+     danych płatniczych Użytkownika.
+
+4.5. Program zachęca do Wsparcia wyłącznie w formie komunikatu, który można
+     trwale wyłączyć. Komunikat ten nie blokuje i nie ogranicza dostępu do
+     żadnej funkcji Programu.
+
+5. DOZWOLONE I NIEDOZWOLONE KORZYSTANIE
+
+5.1. Użytkownik jest uprawniony do:
+
+     a) instalowania i uruchamiania Programu na dowolnej liczbie urządzeń,
+     b) wskazywania Programowi dowolnych plików i folderów znajdujących się na
+        urządzeniu Użytkownika lub w miejscach, do których Użytkownik ma dostęp,
+     c) przetwarzania własnych plików przy użyciu Programu, w tym w celach
+        zarobkowych,
+     d) tworzenia kopii zapasowej instalatora Programu oraz kopii utworzonych
+        przy jego użyciu plików wynikowych,
+     e) zgłaszania uwag, błędów i propozycji rozwoju za pośrednictwem formularza
+        dostępnego w Programie.
+
+5.2. Zabronione jest w szczególności:
+
+     a) sprzedaż, wynajem, dzierżawa, użyczenie ani rozpowszechnianie Programu
+        jako produktu własnego, w tym oferowanie go za opłatą bez wyraźnej,
+        pisemnej zgody Licencjodawcy,
+     b) modyfikowanie, dekompilowanie, deasemblowanie ani podejmowanie prób
+        uzyskania kodu źródłowego Programu - z zastrzeżeniem sekcji 6 ust. 6.2
+        oraz sekcji 9,
+     c) usuwanie, ukrywanie ani modyfikowanie oznaczeń praw autorskich i innych
+        oznaczeń własności w Programie i Dokumentach licencyjnych,
+     d) rozprowadzanie zmodyfikowanych wersji Programu z usuniętą lub zmienioną
+        informacją o autorze,
+     e) korzystanie z Programu w sposób naruszający prawa osób trzecich, w tym
+        do celów niezgodnych z prawem.
+
+5.3. Naruszenie postanowień ust. 5.2 stanowi podstawę do wypowiedzenia
+     niniejszej umowy ze skutkiem natychmiastowym.
+
+6. OGRANICZENIA ORAZ WYJĄTEK DOTYCZĄCY KOMPONENTÓW OPEN SOURCE
+
+6.1. Program korzysta z komponentów stron trzecich udostępnianych na licencjach
+     open source, opisanych w dokumencie "Noty dotyczące oprogramowania stron
+     trzecich", dołączonym do Programu.
+
+6.2. Postanowienia niniejszej umowy ograniczające modyfikowanie, dekompilowanie
+     i deasemblowanie Programu NIE MAJĄ ZASTOSOWANIA w zakresie, w jakim jest to
+     niezbędne do debugowania modyfikacji komponentów objętych licencją GNU
+     Lesser General Public License w wersji 3 (LGPL-3.0), w szczególności
+     bibliotek libheif oraz libde265. Użytkownikowi przysługuje prawo
+     modyfikowania tych bibliotek na potrzeby własnego użytku oraz prawo do
+     zastąpienia ich zmodyfikowanymi wersjami. W tym zakresie Użytkownikowi
+     przysługują uprawnienia wynikające wprost z licencji LGPL-3.0, które mają
+     pierwszeństwo przed ograniczeniami niniejszej umowy.
+
+6.3. Komponenty, o których mowa w ust. 6.2, są dostarczane jako oddzielne pliki
+     bibliotek dynamicznych, w sposób umożliwiający ich zastąpienie przez
+     Użytkownika zgodnie z wymaganiami licencji LGPL-3.0.
+
+6.4. Użytkownikowi nie przysługują żadne prawa do komponentów stron trzecich
+     poza zakresem przewidzianym w ich własnych licencjach. Licencjodawca nie
+     udziela w tym zakresie żadnych dodatkowych ani szerszych uprawnień.
+
+7. KOMPONENTY STRON TRZECICH
+
+7.1. Elementem Programu są komponenty stron trzecich, w tym w szczególności:
+     biblioteki libheif i libde265 (licencja LGPL-3.0), interpreter języka
+     Python, biblioteki Pillow, pi-heif, customtkinter, tkinterdnd2 oraz httpx.
+
+7.2. Pełny wykaz komponentów wraz z oznaczeniami praw autorskich i tekstami
+     licencji stanowi dokument "Noty dotyczące oprogramowania stron trzecich",
+     dołączony do Programu i stanowiący jego integralną część. Dokument ten jest
+     dostępny w Programie (menu Pomoc -> Biblioteki użyte w programie).
+
+7.3. Postanowienia licencji komponentów stron trzecich mogą przyznawać
+     Użytkownikowi uprawnienia odmienne lub szersze niż niniejsza umowa. W
+     takim przypadku pierwszeństwo mają postanowienia tych licencji w zakresie
+     dotyczącym danego komponentu.
+
+7.4. Licencjodawca nie udziela żadnej gwarancji ani nie ponosi
+     odpowiedzialności w zakresie, w jakim wyłączenie takie byłoby skuteczne,
+     za komponenty stron trzecich. Odpowiedzialność Licencjodawcy za te
+     komponenty ogranicza się do należytego ich włączenia w skład Programu.
+
+8. AKTUALIZACJE, WSPARCIE I OKRES OBOWIĄZYWANIA
+
+8.1. Niniejsza umowa obowiązuje bezterminowo, a w zakresie postanowień
+     dotyczących odpowiedzialności, licencji komponentów stron trzecich oraz
+     prawa właściwego - również po zaprzestaniu korzystania z Programu.
+
+8.2. Udzielenie licencji nie obejmuje prawa do aktualizacji Programu.
+     Licencjodawca może, według własnego uznania, udostępniać kolejne wersje
+     Programu; nie jest do tego zobowiązany i nie określa z góry terminów.
+
+8.3. Program nie wymaga połączenia z Internetem do działania i nie wyłącza się
+     po upływie jakiegokolwiek okresu. Wszystkie funkcje konwersji są dostępne
+     bez połączenia z siecią.
+
+8.4. Licencjodawca może udzielać wsparcia technicznego dobrowolnie i w zakresie,
+     jaki sam określi. Udzielanie Wsparcia nie tworzy obowiązku świadczenia
+     usług ani nie zobowiązuje Licencjodawcy do odpowiedzi w określonym terminie.
+
+9. KOD ŹRÓDŁOWY
+
+9.1. Kod źródłowy Programu jest publikowany w repozytorium wskazanym w
+     Informacjach o programie oraz w repozytorium towarzyszącym wydaniu.
+
+9.2. Zasady korzystania z kodu źródłowego określa plik LICENSE znajdujący się w
+     repozytorium. W zakresie, w jakim postanowienia tego pliku różnią się od
+     niniejszej umowy, pierwszeństwo mają postanowienia pliku LICENSE w zakresie
+     dotyczącym kodu źródłowego.
+
+9.3. Publikacja kodu źródłowego nie oznacza zrzeczenia się praw autorskich ani
+     udzielenia licencji szerszej niż wskazana w pliku LICENSE.
+
+10. WYŁĄCZENIE GWARANCJI
+
+10.1. Program jest udostępniany w stanie, w jakim się znajduje ("as is"), bez
+      jakichkolwiek gwarancji, w zakresie dopuszczalnym przez obowiązujące
+      przepisy prawa. Dotyczy to również braku gwarancji przydatności do
+      określonego celu oraz braku gwarancji niezakłóconego korzystania.
+
+10.2. Licencjodawca nie gwarantuje, że Program będzie działał nieprzerwanie,
+      bezbłędnie ani że spełni oczekiwania Użytkownika, że rozpozna i
+      przetworzy wszystkie pliki danego formatu, ani że będzie współpracował ze
+      wszystkimi wersjami systemu operacyjnego, konfiguracjami sprzętowymi lub
+      plikami pochodzącymi z różnych źródeł.
+
+10.3. Program zawiera funkcję wysyłania Anonimowych statystyk (sekcja 13).
+      Funkcja ta jest dobrowolna, nie wpływa na działanie Programu i może zostać
+      wyłączona. Licencjodawca nie gwarantuje dostępności serwera zbierającego
+      te dane; jego niedostępność nie ogranicza korzystania z Programu.
+
+10.4. Użytkownik ponosi odpowiedzialność za posiadanie kopii zapasowej
+      przetwarzanych plików. Licencjodawca nie odpowiada za utratę danych.
+      Program w konfiguracji domyślnej nie usuwa plików źródłowych Użytkownika;
+      opcja usunięcia oryginałów jest wyłączona domyślnie i wymaga wyraźnego
+      potwierdzenia przez Użytkownika.
+
+10.5. Wyłączenia, o których mowa w niniejszej sekcji, nie mają zastosowania w
+      zakresie, w jakim nie pozwalają na to bezwzględnie obowiązujące przepisy
+      prawa, w szczególności przepisy o odpowiedzialności za szkody wyrządzone
+      umyślnie.
+
+11. OGRANICZENIE ODPOWIEDZIALNOŚCI
+
+11.1. Program jest udostępniany nieodpłatnie. W najszerszym zakresie
+      dopuszczalnym przez prawo całkowita odpowiedzialność Licencjodawcy wobec
+      Użytkownika, niezależnie od jej podstawy, ogranicza się do kwoty
+      Wsparcia faktycznie udzielonego przez Użytkownika w okresie dwunastu
+      miesięcy poprzedzających zdarzenie będące podstawą roszczenia, a jeżeli
+      Użytkownik nie udzielił Wsparcia - do zera.
+
+11.2. Licencjodawca nie odpowiada za szkodę pośrednią, utratę danych, utratę
+      zysku, przestój, utratę wartości firmy ani za szkody następcze, w zakresie
+      dopuszczalnym przez obowiązujące przepisy prawa.
+
+11.3. Ograniczenia z ust. 11.1 i 11.2 nie mają zastosowania wobec Użytkownika
+      będącego konsumentem, w zakresie, w jakim wyłączenie takiej
+      odpowiedzialności nie jest dopuszczalne na gruncie bezwzględnie
+      obowiązujących przepisów prawa.
+
+12. PRAWA KONSUMENTA I REKLAMACJE
+
+12.1. Licencja jest udzielana nieodpłatnie, wobec czego przepisy o odstąpieniu
+      od umowy zawartej na odległość oraz o zwrotach uiszczonej opłaty nie
+      znajdują zastosowania do samej Licencji. Nie narusza to uprawnień
+      konsumenta wynikających z bezwzględnie obowiązujących przepisów prawa.
+
+12.2. Udzielenie Wsparcia następuje na warunkach zewnętrznej platformy, za
+      pośrednictwem której jest realizowane; zasady zwrotu Wsparcia określa
+      regulamin tej platformy.
+
+12.3. Licencjodawca zobowiązuje się udzielać rzetelnej i nieprowadzącej w błąd
+      informacji o właściwościach Programu, w tym o braku opłat i ograniczeń
+      czasowych, o dobrowolności Anonimowych statystyk oraz o ograniczeniach
+      opisanych w sekcji 10.
+
+12.4. Reklamacje i uwagi Użytkownik może składać na adres e-mail:
+      szymon.jankojc@net-solution.pl lub za pośrednictwem formularza dostępnego
+      w Programie. Licencjodawca rozpatruje reklamacje w terminie 14 dni od dnia
+      ich otrzymania i informuje Użytkownika o sposobie rozpatrzenia.
+
+13. ANONIMOWE STATYSTYKI I OCHRONA DANYCH OSOBOWYCH
+
+13.1. W celu ustalenia liczby instalacji oraz skali wykorzystania Programu,
+      Program może przekazywać do serwera Licencjodawcy następujące dane:
+
+      a) losowy identyfikator instalacji, wygenerowany przy pierwszym
+         uruchomieniu Programu; identyfikator ten nie jest wyliczany z
+         jakichkolwiek właściwości urządzenia i nie pozwala na jego
+         zidentyfikowanie,
+      b) wersję Programu,
+      c) nazwę i wersję systemu operacyjnego,
+      d) łączną liczbę przekonwertowanych plików,
+      e) datę pierwszego uruchomienia Programu.
+
+13.2. Program NIE przekazuje: nazw ani zawartości przetwarzanych zdjęć,
+      ścieżek dostępu do plików i folderów, nazwy użytkownika, nazwy komputera
+      ani żadnego identyfikatora sprzętowego (w szczególności numeru dysku,
+      adresu MAC czy identyfikatora płyty głównej). Serwer nie przechowuje
+      adresów IP Użytkownika.
+
+13.3. Dane wskazane w ust. 13.1 przekazywane są nie częściej niż raz na 24
+      godziny. Podstawą prawną przetwarzania jest prawnie uzasadniony interes
+      Licencjodawcy polegający na ustaleniu skali korzystania z Programu
+      (art. 6 ust. 1 lit. f RODO). Dane te nie są wykorzystywane do
+      profilowania, podejmowania zautomatyzowanych decyzji ani do identyfikacji
+      Użytkownika. Dane nie są przekazywane podmiotom trzecim w celach
+      marketingowych.
+
+13.4. Przekazywanie danych jest dobrowolne. Użytkownik zostaje o nim
+      poinformowany przy pierwszym uruchomieniu Programu, gdzie może je
+      wyłączyć, a także w każdej chwili później w menu Pomoc -> Prywatność i
+      statystyki. Po wyłączeniu Program nie nawiązuje połączenia z serwerem
+      Licencjodawcy w tym celu.
+
+13.5. Użytkownik może usunąć identyfikator instalacji, usuwając plik danych
+      Programu znajdujący się w katalogu wskazanym w oknie "Prywatność".
+      Kolejne uruchomienie utworzy nowy, niepowiązany z poprzednim
+      identyfikator.
+
+13.6. Dane wskazane w ust. 13.1 są przechowywane nie dłużej niż przez
+      24 miesiące od ostatniego zgłoszenia danej instalacji, po czym są
+      usuwane.
+
+13.7. Jeżeli Użytkownik skorzysta z formularza kontaktowego w Programie, jego
+      wiadomość oraz - wyłącznie jeżeli sam je poda - imię lub adres e-mail są
+      przetwarzane w celu udzielenia odpowiedzi. Podanie tych danych jest
+      dobrowolne, a przesłanie wiadomości wymaga zaznaczenia zgody. Dane
+      kontaktowe są przechowywane nie dłużej niż przez 12 miesięcy od ostatniej
+      korespondencji.
+
+13.8. Użytkownikowi przysługują uprawnienia wynikające z przepisów o ochronie
+      danych osobowych, w tym prawo dostępu do swoich danych, ich sprostowania,
+      usunięcia, ograniczenia przetwarzania, przenoszenia oraz wniesienia
+      sprzeciwu wobec przetwarzania, a także prawo wniesienia skargi do Prezesa
+      Urzędu Ochrony Danych Osobowych. Żądania można kierować na adres e-mail:
+      szymon.jankojc@net-solution.pl.
+
+13.9. Ze względu na anonimowy charakter danych wskazanych w ust. 13.1
+      Licencjodawca może nie być w stanie zidentyfikować danych dotyczących
+      konkretnego Użytkownika, co może uniemożliwić realizację niektórych z
+      uprawnień wymienionych w ust. 13.8. Dotyczy to w szczególności żądania
+      usunięcia danych, które nie da się powiązać z Użytkownikiem; w takim
+      przypadku Licencjodawca poinformuje o tym Użytkownika.
+
+13.10. Dane kontaktowe przetwarzane w związku z formularzem, o którym mowa w
+       ust. 13.7, mogą zostać udostępnione wyłącznie dostawcy usługi
+       hostingowej lub pocztowej Licencjodawcy, wyłącznie w zakresie niezbędnym
+       do prowadzenia korespondencji.
+
+14. WYPOWIEDZENIE UMOWY
+
+14.1. Licencjodawca może wypowiedzieć niniejszą umowę ze skutkiem
+      natychmiastowym w przypadku naruszenia przez Użytkownika postanowień
+      sekcji 5 ust. 5.2 lub sekcji 6.
+
+14.2. Użytkownik może wypowiedzieć niniejszą umowę w każdym czasie przez
+      odinstalowanie Programu i zaprzestanie jego używania.
+
+14.3. Z chwilą wypowiedzenia umowy Użytkownik zobowiązany jest do zaprzestania
+      korzystania z Programu oraz do jego usunięcia ze wszystkich urządzeń.
+      Obowiązek ten dotyczy wszystkich kopii Programu będących w posiadaniu
+      Użytkownika.
+
+14.4. Wygaśnięcie lub wypowiedzenie umowy nie zwalnia Użytkownika z
+      obowiązków, które ze swojej natury powinny obowiązywać po jej wygaśnięciu,
+      w tym obowiązków wynikających z sekcji 11 oraz postanowień licencji
+      komponentów stron trzecich.
+
+15. PRAWO WŁAŚCIWE I WŁAŚCIWOŚĆ SĄDU
+
+15.1. Niniejsza umowa podlega prawu polskiemu.
+
+15.2. Wszelkie spory wynikające z niniejszej umowy rozstrzygane będą przez sąd
+      właściwy miejscowo dla siedziby Licencjodawcy, tj. sąd w Ostrowcu
+      Świętokrzyskim, z zastrzeżeniem przepisów bezwzględnie obowiązujących
+      chroniących konsumentów, w tym przepisów o właściwości sądu w sprawach
+      konsumenckich.
+
+16. POSTANOWIENIA KOŃCOWE
+
+16.1. Jeżeli którekolwiek z postanowień niniejszej umowy okaże się nieważne lub
+      bezskuteczne, pozostałe postanowienia pozostają w mocy, a strony zobowiązują
+      się zastąpić postanowienie nieważne postanowieniem najbliższym jego celowi
+      gospodarczemu.
+
+16.2. Umowa może zostać zmieniona wyłącznie w formie pisemnej lub w formie
+      dokumentu elektronicznego zaakceptowanego przez obie strony, z
+      zastrzeżeniem że Licencjodawca może zmienić warunki kolejnych wersji
+      Programu, informując o tym Użytkownika. Zmiany nie działają wstecz na
+      uprawnienia nabyte na podstawie wcześniejszych wersji umowy, chyba że są
+      korzystne dla Użytkownika.
+
+16.3. W sprawach nieuregulowanych niniejszą umową zastosowanie mają przepisy
+      prawa polskiego, w szczególności ustawy o prawie autorskim i prawach
+      pokrewnych oraz przepisy o świadczeniu usług drogą elektroniczną.
+
+16.4. Umowa została sporządzona w języku polskim. W przypadku udostępnienia
+      tłumaczenia na inny język, rozstrzygające jest brzmienie w języku polskim,
+      chyba że bezwzględnie obowiązujące przepisy prawa stanowią inaczej.
+
+16.5. Akceptacja niniejszej umowy następuje przez rozpoczęcie korzystania z
+      Programu. Treść umowy jest dostępna w Programie (menu Pomoc -> Licencja).
+
+17. KONTAKT
+
+    Licencjodawca:  Szymon Jankojć
+    E-mail:         szymon.jankojc@net-solution.pl
+    Strona:         https://heictojpg.net-solution.pl
+    Kod źródłowy:   https://github.com/net-solution-szymon/heic_to_jpg_converter
+
+================================================================================
+KONIEC UMOWY
+================================================================================

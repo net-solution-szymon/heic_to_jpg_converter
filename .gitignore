@@ -1,0 +1,25 @@
+# Srodowisko i pliki tymczasowe
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Wyniki budowania
+build/
+dist/
+*.spec.bak
+
+# Dane programu i pliki awarii (u uzytkownika, nie w repozytorium)
+data.json
+blad-startu.txt
+diagnostyka.txt
+start.txt
+nieznane-argumenty.txt
+*.diagnostic.jpg
+
+# Katalog wheels/ zawiera 16 MB binariow dla Windows 3.11.
+# Zostaw go, jesli chcesz budowac bez internetu - usun, jesli wolisz
+# trzymac repozytorium lekkie (wtedy instaluj z PyPI).
+# wheels/

@@ -1,0 +1,11 @@
+# Runtime dependencies of HEIC -> JPG Converter.
+# Install with:  python -m pip install -r requirements.txt
+
+pillow>=11.1          # image handling; pi-heif requires >= 11.1
+pi-heif>=1.4          # HEIC decoding (LGPL-3.0, no x265 - see legal/)
+customtkinter>=5.2    # the modern dark UI
+tkinterdnd2>=0.4      # drag & drop onto the window
+httpx>=0.27           # sending anonymous statistics and messages
+
+# Tests only - not needed to run the program.
+pytest>=8.0
