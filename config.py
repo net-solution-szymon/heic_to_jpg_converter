@@ -23,15 +23,15 @@ APP_SLUG = "heic2jpg"
 # --- telemetry server ------------------------------------------------------
 # The API the program reports anonymous statistics to. Leave empty to disable
 # telemetry completely - the program will not try to connect at all.
-SERVER_URL = "https://heictojpg-telemetry.net-solution.pl"
+SERVER_URL = ""
 TELEMETRY_TIMEOUT = 6.0        # seconds, per request
 TELEMETRY_INTERVAL_HOURS = 24  # how often the program reports in
 
 # --- donations -------------------------------------------------------------
 # Opened by the "Postaw kawę" button and by the support prompt.
-SUPPORT_URL = "https://buycoffee.to/net-solution"
+SUPPORT_URL = ""
 # Shown as plain text in the About window. Leave empty to hide it.
-SUPPORT_EMAIL = "szymon.jankojc@net-solution.pl"
+SUPPORT_EMAIL = ""
 # Public repository. Shown in the About window. Leave empty to hide it.
 GITHUB_URL = "https://github.com/net-solution-szymon/heic_to_jpg_converter"
 
