@@ -1,39 +1,4 @@
-"""Probnik startu - narzedzie do diagnozy na komputerze, gdzie program ginie.
 
-PO CO TO JEST
--------------
-Na komputerze z wlaczonym VPN program ginie z kodem 0xc0000374 (uszkodzenie
-sterty), zanim zdazy cokolwiek zapisac. Nie wiadomo, czy wine ponosi nasz kod,
-czy samo pakowanie PyInstallera (wersja jednoplikowa rozpakowuje sie do
-katalogu tymczasowego i uruchamia stamtad).
-
-Ten probnik nic nie liczy i nic nie konwertuje. Zapisuje po jednej linii na
-kazdym etapie startu i pokazuje, DO KTOREGO MIEJSCA dochodzi.
-
-JAK UZYC
---------
-Na komputerze z Pythonem i PyInstallerem:
-
-    pyinstaller --onefile --console tools_probnik_startu.py
-
-Powstanie dist\\tools_probnik_startu.exe. Skopiuj go na komputer, gdzie
-program sie nie uruchamia, i uruchom. Potem znajdz plik probnik-startu.txt
-(obok programu, w katalogu tymczasowym albo w katalogu uzytkownika) i przyslij
-jego tresc.
-
-DODATKOWO warto powtorzyc test w wersji folderowej - podmien --onefile na
---onedir. Jesli wersja folderowa dziala, a jednoplikowa nie, to znaczy, ze
-problem jest w rozpakowywaniu do katalogu tymczasowego.
-
-JAK CZYTAC WYNIK
-----------------
-    brak jakiegokolwiek pliku   -> proces nie wykonal ani jednej linijki;
-                                   zatrzymuje go system albo rozpakowywanie
-    plik konczy sie na etapie 1 -> nie udalo sie zapisac pliku (prawa dostepu)
-    plik konczy sie na etapie 2 -> winne jest ustawienie skalowania ekranu
-    plik konczy sie na etapie 3 -> winna jest biblioteka okien (tkinter)
-    plik dochodzi do konca      -> probnik dziala; problem jest w programie
-"""
 import os
 import sys
 import time
