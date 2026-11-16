@@ -4,8 +4,6 @@ Konwerter zdjęć HEIC z iPhone'a na JPG. Bez licencji, bez limitów, bez
 rejestracji. Program prosi o dobrowolne wsparcie po wykonanej pracy i wysyła
 anonimowe statystyki, żeby było wiadomo, ile osób go używa.
 
-To **osobny projekt** — powstał obok wersji z licencjonowaniem i nie zmienia
-tamtego kodu.
 
 ---
 
