@@ -118,31 +118,6 @@ SERVER_URL = ""
 
 Pusty `SERVER_URL` całkowicie wyłącza telemetrię.
 
-### Sieć firmowa i serwer proxy
-
-Program **nie konfiguruje żadnego proxy**. Łączy się bezpośrednio, tak jak
-pozwala na to sieć. W sieciach firmowych, w których ruch wychodzi przez serwer
-proxy wymagający zalogowania, statystyki i wiadomości po prostu nie dotrą —
-i to jest świadoma decyzja, nie przeoczenie.
-
-**Dlaczego tak.** Wcześniejsza wersja odczytywała ustawienia proxy z systemu
-i podstawiała je bibliotece sieciowej. Kod sięgał po API Windows, a pomyłka
-w zarządzaniu pamięcią skończyła się uszkodzeniem sterty i natychmiastowym
-zamykaniem programu na komputerze użytkownika (kod wyjątku `0xc0000374`).
-Funkcja „wyślij anonimowe statystyki" nie jest warta takiego ryzyka. Dlatego
-tamten kod usunięto w całości.
-
-Obsługa logowania do firmowego proxy (NTLM, Kerberos) wymagałaby dołożenia
-dużej zewnętrznej biblioteki i dostępu do poświadczeń użytkownika. Świadomie
-z tego rezygnujemy.
-
-**Co program robi zamiast tego.** Gdy wysłanie wiadomości się nie uda,
-użytkownik dostaje konkretny powód i wie, co może zrobić — w tym propozycję
-połączenia bez VPN oraz adres e-mail jako drugą drogę kontaktu.
-
-**Uwaga:** statystyki wysyłają się po cichu, więc ich brak nie zakłóca pracy
-programu. Konwersja zdjęć działa bez internetu i jest od tego całkowicie
-niezależna.
 
 ---
 
